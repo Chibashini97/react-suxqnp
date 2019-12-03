@@ -1,5 +1,6 @@
 import React,{Component} from 'react';
-
+import { render } from 'react-dom';
+import {Tabs} from 'react-bootstrap'
 class MainPage extends Component{
   render(){
     return(
